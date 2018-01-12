@@ -27,6 +27,7 @@ namespace SqlModelGenera
             else if (this.comboBox1.SelectedItem == null)
             {
                 MessageBox.Show("请选择数据库类型");
+
             }
             else
             {
